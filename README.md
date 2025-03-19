@@ -86,7 +86,7 @@ pip install medusa-llm
 ```
 ### Method 2: From the source (recommended)
 ```bash
-git clone https://github.com/FasterDecoding/Medusa.git
+git clone https://github.com/Darshan7575/Medusa.git
 cd Medusa
 pip install -e .
 ```
