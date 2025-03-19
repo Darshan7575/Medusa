@@ -80,11 +80,6 @@ We also add support for self-distillation, which allows us to add Medusa to any 
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
-### Method 1: With pip (may not be the latest version)
-```bash
-pip install medusa-llm
-```
-### Method 2: From the source (recommended)
 ```bash
 git clone https://github.com/Darshan7575/Medusa.git
 cd Medusa
